@@ -1,9 +1,9 @@
-import Title from '../../components/Title'
+import Header from '../../components/Header'
 
 const HomeLayout = () => {
   return (
     <>
-      <Title>oi3</Title>
+      <Header>The Sneakers Shop</Header>
     </>
   )
 }
