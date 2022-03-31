@@ -14,6 +14,7 @@ const createGlobalStyles = () => css`
   body {
     font-size: 16px;
     line-height: 1;
+    font-family: Poppins, sans-serif;
   }
 
   html,
